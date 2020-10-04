@@ -3,17 +3,26 @@ General (Every page)
 */
 
 .header{
-  background-color:#ffe6cc;
+  background-color:#ffa94d;
   padding:15px;
 }
 
 .menu{
+  padding-top:10px;
   float:left;
-  width:25%;
+  width:20%;
+  min-width:fit-content;
 }
 
 .menuItem{
-  margin-top:5px;
+  margin-top:10px;
   padding:5px;
-  border-right:2px solid;
+  border-right:4px solid;
+  border-bottom:1px;
+}
+
+.content{
+  padding:20px;
+  float:left;
+  width:60%;
 }
