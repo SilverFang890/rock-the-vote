@@ -8,9 +8,9 @@ General (Every page)
 }
 
 .menu{
-  padding-top:10px;
+  padding:1%;
   float:left;
-  width:20%;
+  width:18%;
   min-width:fit-content;
 }
 
@@ -22,16 +22,16 @@ General (Every page)
 }
 
 .content{
-  padding:20px;
+  padding:1%;
   float:left;
-  width:60%;
+  width:58%;
 }
 
 .rightPanel{
   background-color:blue;
   float:left;
-  width:20%;
-  padding:10px 15px;
+  width:18%;
+  padding:1%;
   margin-top:10px;
 }
 
