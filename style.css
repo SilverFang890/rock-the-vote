@@ -1,0 +1,19 @@
+/*
+General (Every page)
+*/
+
+.header{
+  background-color:#ffe6cc;
+  padding:15px;
+}
+
+.menu{
+  float:left;
+  width:25%;
+}
+
+.menuItem{
+  margin-top:5px;
+  padding:5px;
+  border-right:2px solid;
+}
