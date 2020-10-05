@@ -4,7 +4,7 @@ General (Every page)
 
 body{
   background-image:
-    image("Red and White Stripes.jpg");
+    url("https://imgur.com/a/YgBwu1w");
 }
 
 .header{
@@ -35,7 +35,6 @@ body{
 }
 
 .rightPanel{
-  background-color:white;
   background-color:blue;
   float:left;
   margin-top:10px;
