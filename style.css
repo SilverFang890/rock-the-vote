@@ -45,6 +45,10 @@ body{
   width:18%;
 }
 
+.panelItem{
+  color:white;
+}
+
 @media only screen and (max-width:900px) {
   /* For Tablets */
   .content{
