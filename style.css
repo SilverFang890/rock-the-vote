@@ -5,7 +5,7 @@ General (Every page)
 body{
   background-image:
     url("https://i.imgur.com/3e7jfrr.jpg");
-    background-size: contain;
+    background-size:contain;
 }
 
 .header{
@@ -49,6 +49,12 @@ body{
   color:white;
 }
 
+@media only screen and (min-width:1327px) {
+  body{
+    background-size:cover;
+  }
+}
+
 @media only screen and (max-width:900px) {
   /* For Tablets */
   .content{
@@ -59,7 +65,7 @@ body{
   }
 }
 
-@media only screen and (max-width:700px) {
+@media only screen and (max-width:783px) {
   /* For Mobile Phones */
   .content, .menu, .rightPanel{
     width:98%;
