@@ -29,6 +29,12 @@ ul {
   background-color: rgba(255,255,255,0.6);
 }
 
+#navTitle {
+  height: 20px;
+  background-color: rgba(38,42,67);
+  color: white;
+}
+
 li a {
   display: block;
   color: black;
