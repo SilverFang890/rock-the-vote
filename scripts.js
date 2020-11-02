@@ -1,4 +1,5 @@
 //Active Navbar
+/*
 $(document).ready(function() {
     $( ".navBar .tab" ).bind( "click", function(event) {
         event.preventDefault();
@@ -9,3 +10,4 @@ $(document).ready(function() {
         clickedItem.addClass( "active" );
     });
 });
+*/
