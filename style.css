@@ -2,18 +2,18 @@
 General (Every page)
 */
 
-body{
+body {
   background-image:
     url("https://i.imgur.com/3e7jfrr.jpg");
     background-size: contain;
 }
 
-.header{
+.header {
   background-color: #ffa94d;
   padding: 15px;
 }
 
-.nav{
+.nav {
   background-color: rgba(255,255,255,0.9);
   float: left;
   margin-top: 10px;
@@ -45,7 +45,7 @@ li a:hover:not(.active) {
   color: white;
 }
 
-.content{
+.content {
   background-color: rgba(255,255,255,0.9);
   float: left;
   margin-top: 10px;
@@ -53,7 +53,7 @@ li a:hover:not(.active) {
   width: 58%;
 }
 
-.rightPanel{
+.rightPanel {
   background-color: rgba(0,0,255,0.9);
   float: left;
   margin-top: 10px;
@@ -61,7 +61,7 @@ li a:hover:not(.active) {
   width: 18%;
 }
 
-.panelItem{
+.panelItem {
   color: white;
 }
 
