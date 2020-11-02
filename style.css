@@ -22,7 +22,6 @@ body {
   min-width: fit-content;
 }
 
-/*
 ul {
   list-style: none;
   margin: 0;
@@ -44,24 +43,6 @@ li a.active {
 
 li a:hover:not(.active) {
   background-color: rgba(38,42,67);
-  color: white;
-}
-*/
-
-.navTab{
-  border: none;
-  outline: none;
-  padding: 8px 16px;
-  background-color: rgba(255,255,255,0.6);
-}
-
-.navTab:hover:not(.active) {
-  background-color: rgba(164,35,37);
-  color: white;
-}
-
-.active {
-  background-color: rgba(164,35,37);
   color: white;
 }
 
