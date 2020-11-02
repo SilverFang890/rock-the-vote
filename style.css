@@ -68,10 +68,32 @@ li a:hover:not(.active) {
 
 #biden {
   float: left;
+  width: 33%;
+}
+
+#issueCompare {
+  width: 33%;
 }
 
 #trump {
   float: right;
+  width: 33%;
+}
+
+.compare {
+  
+}
+
+.compareItem{
+  
+}
+
+#issue {
+  
+}
+
+#issueItem {
+  
 }
 
 @media only screen and (min-width:1327px) {
