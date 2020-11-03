@@ -98,28 +98,37 @@ li a:hover:not(.active) {
 }
 
 /*Candidates*/
-.biden {
-
+#biden {
+  float: left;
+  width: 33%;
 }
 
-.trump {
-
+#trump {
+  text-align: right;
+  float: right;
+  width: 33%;
 }
 
 .compare {
-
+  padding: 5%;
 }
 
 .compareItem {
-
+  padding: 5%;
 }
 
-.issues {
+#issues {
+  text-align: center;
+  float: left;
+  width: 33%;
+}
 
+#issue {
+  padding: 5%;
 }
 
 .issueItem {
-
+  padding: 5%;
 }
 
 /*Propositions*/
