@@ -102,14 +102,14 @@ li a:hover:not(.active) {
   float: left;
   padding: 1%;
   width: 48%;
-  height: 450px;
+  height: 475px;
 }
 
 #tInfo {
   float: right;
   padding: 1%;
   width: 48%;
-  height: 450px;
+  height: 475px;
 }
 
 .quoteBorder {
