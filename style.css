@@ -195,7 +195,11 @@ li a:hover:not(.active) {
 }
 
 /*History*/
+#pics {
+  height: 500px;
+}
+
 #picDesc {
-  width: 80%;
-  padding: 10%;
+  width: 92%;
+  padding: 4%;
 }
