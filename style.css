@@ -209,10 +209,12 @@ li a:hover:not(.active) {
   background-color: rgb(164,35,37);
   border: none;
   color: white;
+  width: 10%;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin-left: 45%;
+  margin-right: 45%;
 }
