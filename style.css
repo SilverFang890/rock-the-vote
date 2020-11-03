@@ -196,7 +196,7 @@ li a:hover:not(.active) {
 
 /*History*/
 #pics {
-  height: 1000px;
+  height: fit-content;
 }
 
 #picDesc {
