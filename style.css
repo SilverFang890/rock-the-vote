@@ -98,6 +98,32 @@ li a:hover:not(.active) {
 }
 
 /*Candidates*/
+#bInfo {
+  float: left;
+  width: 50%;
+}
+
+#bQuote {
+
+}
+
+#bQuoteSig {
+
+}
+
+#tInfo {
+  float: right;
+  width: 50%;
+}
+
+#tQuote {
+
+}
+
+#tQuoteSig {
+
+}
+
 #biden {
   float: left;
   width: 33%;
@@ -148,6 +174,7 @@ li a:hover:not(.active) {
 }
 .active {
   display: block;
+  color: rgb(38,42,67);
 }
 
 .propList {
