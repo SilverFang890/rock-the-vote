@@ -128,6 +128,10 @@ li a:hover:not(.active) {
 
 }
 
+.quoteBorder {
+  border-width: 1px;
+}
+
 #biden {
   float: left;
   width: 33%;
