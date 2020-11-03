@@ -115,6 +115,7 @@ li a:hover:not(.active) {
 
 .compareItem {
   padding: 5%;
+  height: 100px;
 }
 
 #issues {
@@ -129,6 +130,7 @@ li a:hover:not(.active) {
 
 .issueItem {
   padding: 5%;
+  height: 100px;
 }
 
 .itemRed {
