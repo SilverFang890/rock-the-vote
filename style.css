@@ -193,3 +193,9 @@ li a:hover:not(.active) {
   width: 88%;
   color: rgb(164,35,37);
 }
+
+/*History*/
+#picDesc {
+  width: 80%;
+  padding: 10%;
+}
