@@ -2,6 +2,35 @@
 General (Every page)
 */
 
+@media only screen and (min-width:1327px) {
+  body{
+    background-size: contain;
+  }
+}
+
+@media only screen and (max-width:900px) {
+  /* For Tablets */
+  .content{
+    width: 78%;
+  }
+  .rightPanel{
+    width: 98%;
+  }
+}
+
+@media only screen and (max-width:783px) {
+  /* For Mobile Phones */
+  .content, .nav, .rightPanel{
+    width: 98%;
+  }
+  .content, .nav{
+    background-color: rgba(255,255,255)
+  }
+  .body{
+    overflow-x: hidden;
+  }
+}
+
 body {
   background-image:
     url("https://i.imgur.com/3e7jfrr.jpg");
@@ -68,7 +97,20 @@ li a:hover:not(.active) {
   color: white;
 }
 
-/*Propositions buttons*/
+/*Candidates*/
+.biden {
+
+}
+
+.issues {
+
+}
+
+.trump {
+  
+}
+
+/*Propositions*/
 .media_hidden {
   display: none;
 
@@ -100,33 +142,4 @@ li a:hover:not(.active) {
   float: right;
   width: 88%;
   color: rgb(164,35,37);
-}
-
-@media only screen and (min-width:1327px) {
-  body{
-    background-size: cover;
-  }
-}
-
-@media only screen and (max-width:900px) {
-  /* For Tablets */
-  .content{
-    width: 78%;
-  }
-  .rightPanel{
-    width: 98%;
-  }
-}
-
-@media only screen and (max-width:783px) {
-  /* For Mobile Phones */
-  .content, .nav, .rightPanel{
-    width: 98%;
-  }
-  .content, .nav{
-    background-color: rgba(255,255,255)
-  }
-  .body{
-    overflow-x: hidden;
-  }
 }
