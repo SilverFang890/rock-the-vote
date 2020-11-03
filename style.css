@@ -105,27 +105,11 @@ li a:hover:not(.active) {
   height: 450px;
 }
 
-#bQuote {
-  font-style: italic;
-}
-
-#bQuoteSig {
-
-}
-
 #tInfo {
   float: right;
   padding: 1%;
   width: 48%;
   height: 450px;
-}
-
-#tQuote {
-    font-style: italic;
-}
-
-#tQuoteSig {
-
 }
 
 .quoteBorder {
